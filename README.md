@@ -7,7 +7,7 @@ Kishor Kumar Andekar
   🤝 <strong>I’m looking to collaborate on:</strong> <small>Fullstack projects</small><br /><br />
   🌱 <strong>I’m currently learning:</strong> <small>AWS</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, React</small><br /><br />
-  🚀 <strong>Experience:</strong> <small>8 Years of Coding & Teaching Experience</small>
+  🚀 <strong>Experience:</strong> <small>8 Years of Coding in Development</small>
 </p>
 
 
